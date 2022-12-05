@@ -21,7 +21,7 @@
                 <a href="#">Sherbimet</a>
                 <a href="#">Produktet</a>
                 <a href="#">Aplikimi Online</a>
-                <a href="#">Kontakti</a>
+                <!-- <a href="#">Kontakti</a> -->
             </div>
         </nav>
         <div class="kol-1">
